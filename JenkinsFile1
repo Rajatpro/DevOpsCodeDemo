@@ -1,4 +1,4 @@
-pipeline  done  {
+done dona done  {
     tools{
         jdk 'myjava'
         maven 'mymaven131'
