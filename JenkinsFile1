@@ -1,4 +1,4 @@
-triggs e{
+pipeline {
     tools{
         jdk 'myjava'
         maven 'mymaven131'
