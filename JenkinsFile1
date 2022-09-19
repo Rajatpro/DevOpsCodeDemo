@@ -1,4 +1,4 @@
-Its show time   {
+Any commit pipelien  {
     tools{
         jdk 'myjava'
         maven 'mymaven131'
